@@ -16,3 +16,6 @@ Available at: https://www.personal.psu.edu/~gjz5038/paper/www2018_reinforceRec/w
 
 * [29] X. Zhao, L. Zhang, Z. Ding, L. Xia, J. Tang, and D. Yin, “Recommendations with negative feedback via pairwise deep reinforcement learning,” CoRR, vol. abs/1802.06501, 2018.
 Available at: https://www.researchgate.net/publication/328598295_Deep_Reinforcement_Learning_based_Recommendation_with_Explicit_User-Item_Interactions_Modeling
+
+### Google doc:
+* https://docs.google.com/document/d/1bRsCVpxZx7NLvZJg_JApn6GUzTF9AThOlWKX8gprEdY/edit?usp=sharing
